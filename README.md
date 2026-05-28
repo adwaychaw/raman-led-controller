@@ -2,7 +2,7 @@
 
 Python software stack for driving a COB LED illumination subsystem in a Raman spectroscopy imaging system, developed at the [Carney Lab](https://carney.ucdavis.edu/), UC Davis.
 
-The LED provides sample edge detection lighting between laser scan positions. It is driven by an IRF520 MOSFET circuit controlled via PWM from an Arduino Nano (CH340), with this software handling serial communication, GUI control, and integration hooks for the broader scan workflow.
+The LED provides sample edge detection lighting between laser scan positions. It is driven by an IRF520 MOSFET circuit controlled via PWM from an Arduino Nano (CH340), with this software handling serial communication, and GUI control.
 
 ---
 
